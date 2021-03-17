@@ -1,1 +1,8 @@
+
 This is edited at a local computer
+
+This is how to resolve the conflict between two masters
+
+
+This is edited at the github origin server
+
